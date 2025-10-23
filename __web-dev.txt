@@ -12,6 +12,9 @@
 # use zed console for git or could use a 3rd shell
 -- git add .
 -- git commit
+-- git commit -a # does both
+-- git status
+-- git log
 
 # Thursday October 23, 2025; having initiated basic jekyll site, have set up git, now add a file
 -- added sermons.markdown, works as expect (but is slow)
