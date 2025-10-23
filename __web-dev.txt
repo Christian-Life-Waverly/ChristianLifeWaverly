@@ -9,14 +9,70 @@
 # in rclone shell
 -- save 2025 to G Drive as usual
 
-# use zed console for git
+# use zed console for git or maybe a 3rd shell
+--
 
 # Thursday October 23, 2025; having initiated basic jekyll site, now set up git
 -- added __web-dev.txt, mobile-first.ods to basic site
 -- put both in exclude:
 -- site still looks like original
 -- https://git-scm.com/docs/user-manual#Developing-With-git
---
+-- cd ~/Documents/2025/web-dev/model_00/
+-- git init
+[doug@doug-xps159510 model_00]$ git init
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+hint:
+hint: Disable this message with "git config set advice.defaultBranchName false"
+Initialized empty Git repository in /home/doug/Documents/2025/web-dev/model_00/.git/
+[doug@doug-xps159510 model_00]$
+-- that added 80 KB, 18 files, 9 folders
+-- git commit
+[doug@doug-xps159510 model_00]$ git commit
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.gitignore
+	404.html
+	Gemfile
+	Gemfile.lock
+	__web-dev.txt
+	_config.yml
+	_posts/
+	about.markdown
+	index.markdown
+	mobile-first.ods
+
+nothing added to commit but untracked files present (use "git add" to track)
+[doug@doug-xps159510 model_00]$
+-- skipped add
+[doug@doug-xps159510 model_00]$ git add .
+[doug@doug-xps159510 model_00]$ git commit
+[master (root-commit) 671b734] Jeykyll shortly after jekyll new model_00
+ 10 files changed, 415 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 404.html
+ create mode 100644 Gemfile
+ create mode 100644 Gemfile.lock
+ create mode 100644 __web-dev.txt
+ create mode 100644 _config.yml
+ create mode 100644 _posts/2025-10-23-welcome-to-jekyll.markdown
+ create mode 100644 about.markdown
+ create mode 100644 index.markdown
+ create mode 100644 mobile-first.ods
+[doug@doug-xps159510 model_00]$
+-- now model_00 uses 372 KB, 66 files, 51 folders
 
 # Thursday October 23, 2025; initiate basic jekyll site
 -- need to capture changes via git so restart Jekyll
