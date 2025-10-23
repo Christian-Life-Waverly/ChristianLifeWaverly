@@ -9,8 +9,13 @@
 # in rclone shell
 -- save 2025 to G Drive as usual
 
-# use zed console for git or maybe a 3rd shell
---
+# use zed console for git or could use a 3rd shell
+-- git add .
+-- git commit
+
+# Thursday October 23, 2025; having initiated basic jekyll site, have set up git, now add a file
+-- added sermons.markdown, works as expect (but is slow)
+-- used console, git add ., git commit
 
 # Thursday October 23, 2025; having initiated basic jekyll site, now set up git
 -- added __web-dev.txt, mobile-first.ods to basic site
