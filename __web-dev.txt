@@ -1,0 +1,67 @@
+# daily notes on web dev activities
+
+# daily routine
+# in serve shell
+-- cd ~/Documents/2025/web-dev/model_00
+-- bundle exec jekyll serve
+-- browse http://localhost:4000/ to verify that all worked
+
+# in rclone shell
+-- save 2025 to G Drive as usual
+
+# use zed console for git
+
+# Thursday October 23, 2025; having initiated basic jekyll site, now set up git
+-- added __web-dev.txt, mobile-first.ods to basic site
+-- put both in exclude:
+-- site still looks like original
+-- https://git-scm.com/docs/user-manual#Developing-With-git
+--
+
+# Thursday October 23, 2025; initiate basic jekyll site
+-- need to capture changes via git so restart Jekyll
+-- so follow jekyllrb.com quick start
+-- already have local jekyll so skip first step (gem install bundler jekyll)
+-- I'll call this site model_00
+-- cd ~/Documents/2025/web-dev
+-- jekyll new model_00
+Running bundle install in /home/doug/Documents/2025/web-dev/model_00...
+  Bundler: Fetching gem metadata from https://rubygems.org/...........
+  Bundler: Resolving dependencies...
+  Bundler: Fetching bigdecimal 3.3.1
+  Bundler: Fetching json 2.15.1
+  Bundler: Fetching rexml 3.4.4
+  Bundler: Fetching rouge 4.6.1
+  Bundler: Installing bigdecimal 3.3.1 with native extensions
+  Bundler: Installing json 2.15.1 with native extensions
+  Bundler: Installing rexml 3.4.4
+  Bundler: Installing rouge 4.6.1
+  Bundler: Fetching google-protobuf 4.33.0 (x86_64-linux-gnu)
+  Bundler: Installing google-protobuf 4.33.0 (x86_64-linux-gnu)
+  Bundler: Fetching sass-embedded 1.93.2 (x86_64-linux-gnu)
+  Bundler: Installing sass-embedded 1.93.2 (x86_64-linux-gnu)
+  Bundler: Bundle complete! 7 Gemfile dependencies, 38 gems now installed.
+  Bundler: Use `bundle info [gemname]` to see where a bundled gem is installed.
+New jekyll site installed in /home/doug/Documents/2025/web-dev/model_00.
+-- bundle exec jekyll serve
+-- /home/doug/Documents/2025/web-dev uses 160 KB, 27 files, 26 folders
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- trailer to compensate for android display loss
