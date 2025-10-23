@@ -9,7 +9,7 @@
 # in rclone shell
 -- save 2025 to G Drive as usual
 
-# use zed console for git or could use a 3rd shell
+# use zed console for git or could use a 3rd shell or could use git panel for simple commits
 -- git add .
 -- git commit
 -- git commit -a # does both
