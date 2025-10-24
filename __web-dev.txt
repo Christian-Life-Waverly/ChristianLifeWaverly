@@ -29,6 +29,7 @@
 -- works as expected
 -- copied includes/footer.html to local _includes
 -- added address, phone to _config.yml and footer.html
+-- reviewed contents of pages, post
 
 # Thursday October 23, 2025; having initiated basic jekyll site, have set up git, now add a file
 -- added sermons.markdown, works as expect (but is slow)

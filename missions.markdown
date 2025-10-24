@@ -5,8 +5,8 @@ permalink: /missions/
 ---
 
 **Missions We Support:**
-- The Bridge/Kids at Risk: [The Bridge](https://www.thevalleybridge.com/ministries/kids-at-risk/)
-- First Look Pregnancy Center (Endless Mountains Pregnancy Care Center): https://empccfree.com/
-- Forward Edge International: https://www.forwardedge.org/; Victoria at Villa Esperanza Nicaragua & Idania graduated 
-- Frontiers / Partners in Holistic Development / Malawi Bible / Sue & Charles Reed https://developingwholeness.org/ 
-- OM USA (Operation Mobilization): Mike & Drena Bryne, https://www.omusa.org/
+- The Bridge/Kids at Risk: [The Bridge Kids at Risk Ministry](https://www.thevalleybridge.com/ministries/kids-at-risk/){:target="_blank"}
+- Hopegate (Formerly *Endless Mountains Pregnancy Care Center*): [Hopegate locations](https://hopegatecenters.com/#locations){:target="_blank"}
+- Villa Esperanza Nicaragua: [Forward Edge International](https://www.forwardedge.org/){:target="_blank"}
+- Frontiers/Partners in Holistic Development, Sue & Charles Reed [PIHD](https://developingwholeness.org/){:target="_blank"}
+- Operation Mobilization, Mike & Drena Bryne: [OM USA](https://www.omusa.org/){:target="_blank"}

@@ -24,7 +24,7 @@ address: 207 Broad St Waverly NY 14892
 phone: 607-565-9777
 description: >- # this means to ignore newlines until "baseurl:"
   We are an independent, conservative, evangelical church located at 207 Broad St in the Village
-  of Waverly, New York. Our entrance is at the corner of Clark St and Broad St. We are in the old
+  of Waverly, New York. The main entrance is at the corner of Clark St and Broad St. We are in the old
   Capitol Theater. We share our building with The Bridge of the Penn-York Valley Churches.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

@@ -4,4 +4,6 @@ title: History
 permalink: /history/
 ---
 
-**A Brief History of Christian Life Waverly New York**
+**A Brief History of Christian Life**
+
+/* get starter idea from brochure? */
