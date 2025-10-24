@@ -19,6 +19,12 @@
 # Friday October 24, 2025;
 -- goals: add photo of building, move posts out of home to blog page, address, phone, ?
 -- added building entrance photo to home page
+-- added new blog layout as follows
+-- copied layouts from /.rvm/gems/ruby-3.4.5/gems/minima-2.5.2/_layouts/
+-- copied the posts code from _layouts/home.html to */blog.html (a new layout)
+-- marked existing posts as published: false
+-- added start of welcome to new website post
+-- blog page seems to work as expected
 
 # Thursday October 23, 2025; having initiated basic jekyll site, have set up git, now add a file
 -- added sermons.markdown, works as expect (but is slow)
