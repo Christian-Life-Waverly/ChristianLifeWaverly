@@ -16,6 +16,10 @@
 -- git status
 -- git log
 
+# Friday October 24, 2025;
+-- goals: add photo of building, move posts out of home to blog page, address, phone, ?
+-- added building entrance photo to home page
+
 # Thursday October 23, 2025; having initiated basic jekyll site, have set up git, now add a file
 -- added sermons.markdown, works as expect (but is slow)
 -- used console, git add ., git commit
