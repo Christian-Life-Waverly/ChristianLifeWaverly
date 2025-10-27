@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Christian Life Waverly NY
+title: Christian Life Waverly
 email: christianlifewaverly@gmail.com
 address: 207 Broad St Waverly NY 14892
 phone: 607-565-9777
