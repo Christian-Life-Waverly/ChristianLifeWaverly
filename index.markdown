@@ -8,7 +8,7 @@ Sermon for Sunday November 2, 2025:\\
 Sunday Worship: 11 am
 
 ![corner of Broad & Clark](assets/clc_001.jpg 'Entrance at the corner of Broad & Clark')
-<br><em>The main entrance to Christian Life Waverly at the corner of Broad and Clark.</em>
+<br><em>The main entrance to Christian Life Waverly at the corner of Broad St and Clark St.</em>
 
 **Paul and Silas answer the question:**
 >Sirs, what must I do to be saved?
