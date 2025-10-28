@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are an independent, conservative, evangelical church located at 207 Broad St in the Village
   of Waverly, New York. The main entrance is at the corner of Clark St and Broad St. We are in the old
   Capitol Theater. We share our building with The Bridge of the Penn-York Valley Churches.
-baseurl: "https://christian-life-waverly.github.io" # the subpath of your site, e.g. /blog
-url: "/ChristianLifeWaverly/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ChristianLifeWaverly/" # the subpath of your site, e.g. /blog
+url: "https://christian-life-waverly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username: jekyll
 
