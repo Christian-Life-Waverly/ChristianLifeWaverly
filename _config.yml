@@ -46,7 +46,7 @@ plugins:
 #
 exclude:
   - mobile-first.ods
-  - __web-dev.txt
+  - __readme.txt
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
