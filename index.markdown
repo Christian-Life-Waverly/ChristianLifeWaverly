@@ -1,11 +1,15 @@
 ---
 layout: home
 ---
-Current Series: "James"\\
-Sermon for Sunday November 2, 2025:\\
-"For the Sun Rises" (James 1:9-11)
+**<span style="font-size:1.6em">Current Sermon Series: James</span>**\\
+<span style="font-size:1.2em">Series Theme: Let steadfastness have its full effect.</span>\\
+November 2: "For the Sun Rises" (James 1:9-11)
 
-Sunday Worship: 11 am
+**Sunday Worship: 11 am**
+
+Next Fellowship Meal: Sunday November 16, 2025 after the 11 am service
+
+Location: 207 Broad St Waverly NY (corner of Broad & Clark)
 
 ![corner of Broad & Clark]( {{ site.baseurl }}assets/clc_001.jpg 'Entrance at the corner of Broad & Clark')
 <br><em>The main entrance to Christian Life Waverly at the corner of Broad St and Clark St.</em>
