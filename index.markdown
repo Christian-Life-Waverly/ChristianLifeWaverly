@@ -9,7 +9,7 @@ November 2: "For the Sun Rises" (James 1:9-11)
 
 Next Meal: November 16 after 11 am service
 
-207 Broad St Waverly NY (corner of Broad & Clark)
+207 Broad St Waverly NY
 
 ![corner of Broad & Clark]( {{ site.baseurl }}assets/clc_001.jpg 'Entrance at the corner of Broad & Clark')
 <br><em>The main entrance to Christian Life Waverly at the corner of Broad St and Clark St.</em>
