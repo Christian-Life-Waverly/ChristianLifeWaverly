@@ -8,7 +8,7 @@ November 2: "For the Sun Rises" (James 1:9-11)
 
 **Sunday Worship: 11 am**
 
-Next Meal: November 16 after 11 am service
+Fellowship Meal: November 16 after 11 am service
 
 207 Broad St Waverly NY
 
