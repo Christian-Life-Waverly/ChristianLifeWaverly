@@ -5,7 +5,7 @@ permalink: /beliefs/
 ---
 
 **Statement of Faith:**
-1. We believe the Holy Bible as the inspired Word of God, without any error, the all-sufficient authority in matters of faith, doctrine, and Christian living.
+1. We believe the Holy Bible is the inspired Word of God, without any error, the all-sufficient authority in matters of faith, doctrine, and Christian living.
 
 2. We believe in one God, eternally existing in three Persons: the Father, the Son, and the Holy Spirit.
 
