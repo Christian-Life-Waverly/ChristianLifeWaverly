@@ -45,7 +45,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - mobile-first.ods
+  - save-files.sh
 #  - __readme.txt
 #   - .sass-cache/
 #   - .jekyll-cache/
