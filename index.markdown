@@ -4,7 +4,7 @@ layout: home
 **<span style="font-size:1.6em">Current Series: James</span>**\\
 *<span style="font-size:1.3em">Let steadfastness have its full effect.</span>*
 
-November 2: "For the Sun Rises" (James 1:9-11)
+November 9: "Steadfast under Trial" (James 1:12-15)
 
 **Sunday Worship: 11 am**
 
