@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "For the Sun Rises"
-date:   2025-11-01 11:31:01 -0400
+date:   2025-11-02 15:31:01 -0400
 categories: sermons
 published: true
 ---
 
-In our sermon today from James 1:9-11 we considered ... <!-- more --> Today's sermon audio can be found on Castbox at ["But If Any of You Lacks Wisdom", James 1:5-8][sermon].
+In our sermon today from James 1:9-11 we considered how wealth or the lack of wealth can shift our perspective from God's point of view to the world's point of view. We want all of our "boasting" to be God-centered boasting. We want none of our boasting to be self-centered bragging. Today's sermon audio can be found on Castbox at ["For the Sun Rises", James 1:9-11][sermon]{:target="_blank"}.
+<!-- more -->
 
 Introduction: Boasting\\
 1 The Lowly Brother (9)\\
@@ -25,4 +26,4 @@ Commentary on James (1:9)\\
 by Theophylact of Ohrid (c. 1050 - c. 1108)\\
 quoted in **Ancient Christian Commentary on Scripture**
 
-[sermon]: https://castbox.fm/episode/137-%22But-If-Any-of-You-Lacks-Wisdom%22-James-1%3A5-8-(Doug-Paul%2C-October-26%2C-2025)-id5243618-id860254499
+[sermon]: https://castbox.fm/episode/138-%22For-the-Sun-Rises%22-James-1%3A9-11-(Doug-Paul%2C-November-2%2C-2025)-id5243618-id862490796?country=us

@@ -6,7 +6,7 @@ categories: sermons
 published: true
 ---
 
-In our sermon today from James 1:5-8 we considered how wisdom and double-mindedness impact our spiritual maturity. Are we "perfect and complete, lacking in nothing"? Today's sermon audio can be found on Castbox at ["But If Any of You Lacks Wisdom", James 1:5-8][sermon]. <!-- more -->
+In our sermon today from James 1:5-8 we considered how wisdom and double-mindedness impact our spiritual maturity. Are we "perfect and complete, lacking in nothing"? Today's sermon audio can be found on Castbox at ["But If Any of You Lacks Wisdom", James 1:5-8][sermon]{:target="_blank"}. <!-- more -->
 
 Introduction: Coherence in James\\
 1 Wisdom from Above (1:5-6; 3:13-18)\\
