@@ -32,6 +32,8 @@ Christian Life Waverly, also known as Christian Life Church or CLC, is an indepe
 <h2 id="contact">Contact Us</h2>
 
 <form method="post">
+    <label for="name">Name</label><br>
+    <input name="Name" id="name" type="text" /><br><br>
     <label for="email">Email Address</label><br>
     <input name="Email" id="email" type="email" /><br><br>
     <label for="message">Message</label><br>
