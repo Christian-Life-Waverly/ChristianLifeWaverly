@@ -24,6 +24,9 @@
             {%- if site.phone -%}
                 <li>{{ site.phone | escape }}</li>
             {%- endif -%}
+            {%- if site.contact_us -%}
+                <li><a href="{{ site.contact_us }}">Contact Us</a></li>
+            {%- endif -%}
         </ul>
       </div>
 
@@ -33,6 +36,9 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
+        {%- if site.donation -%}
+            <p><span style="background-color: #ADD8E6;"><a href="{{ site.donation }}" target="_blank">Donation/PayPal</a></span></p>
+        {%- endif -%}
       </div>
     </div>
 

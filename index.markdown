@@ -15,9 +15,7 @@ Fellowship Meal: November 16 after 11 am service
 ![corner of Broad & Clark]( {{ site.baseurl }}assets/clc_001.jpg 'Entrance at the corner of Broad & Clark')
 <br><em>The main entrance to Christian Life Waverly at the corner of Broad St and Clark St.</em>
 
-**What Must I Do to Be Saved?**
+<h2>What Must I Do to Be Saved?</h2>
 >Sirs, what must I do to be saved?
 >
 >And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. And they spake unto him the word of the Lord, and to all that were in his house. (from Acts 16:30-32, KJV)
-
-<a href="#leadership">Leadership</a> <a href="#contact">Contact_Us</a> <a href="#give">Give</a>
