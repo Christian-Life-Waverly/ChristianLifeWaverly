@@ -19,3 +19,5 @@ Fellowship Meal: November 16 after 11 am service
 >Sirs, what must I do to be saved?
 >
 >And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. And they spake unto him the word of the Lord, and to all that were in his house. (from Acts 16:30-32, KJV)
+
+<a href="#leadership">Leadership</a> <a href="#contact">Contact_Us</a> <a href="#give">Give</a>

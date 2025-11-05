@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<a href="#leadership">Leadership</a> <a href="#contact">Contact_Us</a> <a href="#give">Give</a>
-
 <h2 id="intro">Introduction</h2>
 **Sunday Worship: 11 am**\\
 207 Broad St Waverly NY\\
@@ -27,8 +25,6 @@ Christian Life Waverly, also known as Christian Life Church or CLC, is an indepe
 *information to be added: list Council members?*
 *information to be added: bio?*
 
-<a href="#intro">Introduction</a> <a href="#contact">Contact_Us</a> <a href="#give">Give</a>
-
 <h2 id="contact">Contact Us</h2>
 
 <form method="post">
@@ -41,10 +37,6 @@ Christian Life Waverly, also known as Christian Life Church or CLC, is an indepe
     <button type="submit">Submit</button><br><br>
 </form>
 
-<a href="#intro">Introduction</a> <a href="#leadership">Leadership</a> <a href="#give">Give</a>
-
 <h2 id="give">Give</h2>
 
 We accept online donations through our [PayPal](https://paypal.me/ChristianLifeChurch?locale.x=en_US){:target="_blank"} page.
-
-<a href="#intro">Introduction</a> <a href="#leadership">Leadership</a> <a href="#contact">Contact_Us</a>
