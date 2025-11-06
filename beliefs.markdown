@@ -4,7 +4,8 @@ title: Beliefs
 permalink: /beliefs/
 ---
 
-**Statement of Faith:**
+<h2 id="beliefs">Statement of Faith</h2>
+
 1. We believe the Holy Bible is the inspired Word of God, without any error, the all-sufficient authority in matters of faith, doctrine, and Christian living.
 
 2. We believe in one God, eternally existing in three Persons: the Father, the Son, and the Holy Spirit.
@@ -24,3 +25,7 @@ permalink: /beliefs/
 9. We believe in the bodily resurrection of the dead, the everlasting blessedness of the saved in heaven, and the everlasting punishment and separation from God of the unsaved in hell.
 
 10. We believe in the Holy Spirit empowering and members should pursue and use His gifts for the edifying of the Body of Christ.
+
+<h2 id="creeds">Ancient Creeds</h2>
+
+<h2 id="confessions">Protestant Confessions</h2>
