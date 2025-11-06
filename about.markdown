@@ -17,16 +17,33 @@ Christian Life Waverly, also known as Christian Life Church or CLC, is an indepe
 
 <h2 id="contact">Contact Us</h2>
 
-\* required field
+Here are various ways to contact us.<br><br>
+
+{%- if site.address -%}
+  **Address:**  
+  {{ site.address | escape }}<br><br>
+{%- endif -%}
+
+{%- if site.phone -%}
+  **Phone:**  
+  {{ site.phone | escape }}<br><br>
+{%- endif -%}
+
+{%- if site.email -%}
+  **Email:**  
+  <a href="mailto:{{ site.email }}">{{ site.email }}</a><br><br>
+{%- endif -%}
+
+**Contact Form:** 
 
 <form action="https://api.staticforms.dev/submit" method="POST">
     <input type="hidden" name="apiKey" value="sf_6f312597h23h24ld4jd14dc8" />
     <input type="hidden" name="redirectTo" value="https://clcwaverly.org/thank-you.html/" />
     <label for="name">Name</label><br>
     <input name="Name" id="name" type="text" /><br><br>
-    <label for="email">Email Address*</label><br>
+    <label for="email">Email Address (required)</label><br>
     <input name="Email" required id="email" type="email" /><br><br>
-    <label for="message">Message*</label><br>
-    <input name="Message" required id="message" type="text" /><br><br>
+    <label for="message">Message (required)</label><br>
+    <textarea id="message" name="Message" rows="7" cols="30"></textarea><br><br>
     <button type="submit">Submit</button><br><br>
 </form>
