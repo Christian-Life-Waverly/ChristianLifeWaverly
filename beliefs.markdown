@@ -4,6 +4,8 @@ title: Beliefs
 permalink: /beliefs/
 ---
 
+This Statement of Faith is taken verbatim from our constitution. Below we have listed the [creeds and confessions](#creeds) (paraphrasing C H Spurgeon on the Second London Confession) to assist the reader in controversies, to confirm the reader in his or her faith, and to edify the reader in righteousness. The reader who disagrees on some point with the consensus of these documents ought to take great care. 
+
 <h2 id="beliefs">Statement of Faith</h2>
 
 1. We believe the Holy Bible is the inspired Word of God, without any error, the all-sufficient authority in matters of faith, doctrine, and Christian living.
@@ -27,5 +29,16 @@ permalink: /beliefs/
 10. We believe in the Holy Spirit empowering and members should pursue and use His gifts for the edifying of the Body of Christ.
 
 <h2 id="creeds">Ancient Creeds</h2>
+* Old Roman Creed (2nd or 3rd century)
+* Nicene Creed AD 325
+* Constantinopolitan Creed AD 381
+* Chalcedonian Definition AD 451 (not a creed but very important)
+* Apostles' Creed (earliest known manuscript, AD 710 or later)
 
 <h2 id="confessions">Protestant Confessions</h2>
+* Belgic Confession AD 1561
+* Heidelburg Catechism AD 1563
+* Canons of Dordt AD 1619
+* Westminster Confession AD 1647
+* Savoy Declaration AD 1658
+* 2nd London Confession AD 1677/1689
