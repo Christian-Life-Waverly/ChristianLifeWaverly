@@ -2,7 +2,9 @@
 layout: post
 title:  "For the Sun Rises"
 date:   2025-11-02 15:31:01 -0400
-categories: sermons
+tags: 
+ - Sermons
+ - James
 published: true
 ---
 

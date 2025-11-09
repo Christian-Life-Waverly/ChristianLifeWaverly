@@ -2,7 +2,7 @@
 layout: post
 title:  "But If Any of You Lacks Wisdom"
 date:   2025-10-26 16:31:01 -0400
-categories: sermons
+tags: [Sermons, James]
 published: true
 ---
 
