@@ -4,7 +4,7 @@ title: Beliefs
 permalink: /beliefs/
 ---
 
-This Statement of Faith is taken verbatim from our constitution. Below we have listed the [creeds and confessions](#creeds) (paraphrasing C H Spurgeon on the Second London Confession) to assist the reader in controversies, to confirm the reader in his or her faith, and to edify the reader in righteousness. The reader who disagrees on some point with the consensus of these documents ought to take great care. 
+We have summarized our beliefs with these 10 assertions in our Statement of Faith. Below the Statement of Faith we have listed various [creeds and confessions](#creeds) "to assist the reader in controversies, to confirm the reader in his or her faith, and to edify the reader in righteousness"[^1]. If we disagree with these creeds and confessions where they are in agreement with each other we should be very careful. 
 
 <h2 id="beliefs">Statement of Faith</h2>
 
@@ -42,3 +42,5 @@ This Statement of Faith is taken verbatim from our constitution. Below we have l
 * Westminster Confession AD 1647
 * Savoy Declaration AD 1658
 * 2nd London Confession AD 1677/1689
+
+[^1]: C H Spurgeon made a very similar comment about the Second London Confession.
