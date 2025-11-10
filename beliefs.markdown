@@ -4,7 +4,7 @@ title: Beliefs
 permalink: /beliefs/
 ---
 
-We have summarized our beliefs with these 10 assertions in our Statement of Faith. Below the Statement of Faith we have listed various [creeds and confessions](#creeds) "to assist the reader in controversies, to confirm the reader in his or her faith, and to edify the reader in righteousness"[^1]. If we disagree with these creeds and confessions where they are in agreement with each other we should be very careful. 
+This Statement of Faith is our official doctrinal statement taken from our constitution. Below the Statement of Faith we have listed various [creeds and confessions](#creeds) "to assist the reader in controversies, to confirm the reader in his or her faith, and to edify the reader in righteousness"[^1]. If anyone disagrees with these creeds and confessions where they are in agreement with each other that person should be very careful. 
 
 <h2 id="beliefs">Statement of Faith</h2>
 
@@ -20,13 +20,15 @@ We have summarized our beliefs with these 10 assertions in our Statement of Fait
 
 6. We believe in the personal, bodily, imminent, and glorious return of the Lord Jesus Christ and that His second coming inspires believers for dynamic and zealous life and service for Him while waiting for His return.
 
-7. We believe in baptism by full immersion and that this symbolizes Christ’s death, burial and resurrection. Being baptized is a public declaration of faith in Christ’s atoning work and identifying with Him.
+7. We believe in the bodily resurrection of the dead, the everlasting blessedness of the saved in heaven, and the everlasting punishment and separation from God of the unsaved in hell.
 
-8. We believe in the Lord’s Table (Communion) as a remembrance of the cost of our sin and Christ’s propitiation. In taking communion, we remember what He did to bring us into right relationship with the Father and celebrate the victory, looking forward to His return.
+8. We believe in the autonomy of the local church. The church shall manage its own affairs and shall not be subject to any other religious body or organization.
 
-9. We believe in the bodily resurrection of the dead, the everlasting blessedness of the saved in heaven, and the everlasting punishment and separation from God of the unsaved in hell.
+9. We believe in the Holy Spirit empowering and members should pursue and use His gifts for the edifying of the Body of Christ.
 
-10. We believe in the Holy Spirit empowering and members should pursue and use His gifts for the edifying of the Body of Christ.
+10. We believe Baptism to be an outward expression of the believer’s identification with Christ, a public testimony of the regenerative work of Christ in the believer.
+
+11. We believe the Lord’s Supper to be as described by the Lord Himself as a “Remembrance.” (1 Cor. 11:23-25) It is to be taken only within the community of believers and in accordance with the guidelines given in 1 Corinthians 11.
 
 <h2 id="creeds">Ancient Creeds</h2>
 * Old Roman Creed (2nd or 3rd century)
