@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Gospel
+# title: The Gospel
 permalink: /the-gospel/
 ---
 
