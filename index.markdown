@@ -4,7 +4,7 @@ layout: home
 **<span style="font-size:1.6em">Current Series: James</span>**\\
 *<span style="font-size:1.3em">"Let steadfastness have its full effect."</span>*
 
-November 9: "Steadfast under Trial" (James 1:12-15)
+November 16: "The Father Brought Us Forth" (James 1:16-18)
 
 **Sunday Worship: 11 am**
 
