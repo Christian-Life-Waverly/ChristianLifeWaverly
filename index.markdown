@@ -20,4 +20,4 @@ Fellowship Meal: November 16 after 11 am service
 >
 >And they said, “Believe in the Lord Jesus, and you will be saved, you and your household.” And they spoke the word of the Lord to him and to all who were in his house. 
 
-Acts 16:30-32, {%- include esv-cr.html -%}
+Acts 16:30-32, {%- include esv-cr-link.html -%}
