@@ -16,6 +16,8 @@ Fellowship Meal: November 16 after 11 am service
 <br><em>The main entrance to Christian Life Waverly at the corner of Broad St and Clark St.</em>
 
 <h2>What Must I Do to Be Saved?</h2>
->Sirs, what must I do to be saved?
+> ... Sirs, what must I do to be saved?
 >
->And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. And they spake unto him the word of the Lord, and to all that were in his house. (from Acts 16:30-32, KJV)
+>And they said, “Believe in the Lord Jesus, and you will be saved, you and your household.” And they spoke the word of the Lord to him and to all who were in his house. 
+
+Acts 16:30-32, {%- include esv-cr.html -%}
