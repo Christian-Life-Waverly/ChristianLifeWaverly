@@ -4,9 +4,9 @@ title: History
 permalink: /history/
 ---
 
-**A Brief History of Christian Life**
+**A Brief History of Christian Life Church Waverly**
 
-The Christian Life Church is located at 207 Broad Street in Waverly. The building, Capitol Theater with a detached row of storefronts and apartments with an entrance located on the corner of the block and a curved marquee, was built in 1926 for 2.5 million dollars by M. E. Comerford Amusement Co. on a lot purchased after the buildings previously there burned down. The Capitol seated 1,472 including the balcony and had a stage with one screen. It was a big town theater in a small town. There are still many today who recall going to the theater.
+The Christian Life Church Waverly is located at 207 Broad Street in Waverly. The building, Capitol Theater with a detached row of storefronts and apartments with an entrance located on the corner of the block and a curved marquee, was built in 1926 for 2.5 million dollars by M. E. Comerford Amusement Co. on a lot purchased after the buildings previously there burned down. The Capitol seated 1,472 including the balcony and had a stage with one screen. It was a big town theater in a small town. There are still many today who recall going to the theater.
 
 ![corner of Broad & Clark]( {{ site.baseurl }}assets/Capitol_Theatre.jpg 'Capitol Theatre')
 <br><em>Undated photograph of the old Waverly, NY Capitol Theatre.</em>
@@ -22,4 +22,4 @@ In July 2021, the church began allowing The Bridge of the Penn-York Valley Churc
 
 The current congregation is small, but faithful. The church remains independent. Sunday services are held each week at 11 a.m. Doug Paul currently preaches God’s Word weekly.
 
-*Christian Life Waverly would like to expand on this historical record. Please send any insights you might have about the history of the building and/or the congregation to <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>.*
+*Christian Life Church Waverly would like to expand on this historical record. Please send any insights you might have about the history of the building and/or the congregation to <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>.*

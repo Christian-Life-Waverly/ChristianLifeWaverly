@@ -10,10 +10,12 @@ November 16: "The Father Brought Us Forth" (James 1:16-18)
 
 Fellowship Meal: November 16 after 11 am service
 
-207 Broad St Waverly NY
+{%- if site.address -%}
+  <br><br>{{ site.address | escape }}<br><br>
+{%- endif -%}
 
 ![corner of Broad & Clark]( {{ site.baseurl }}assets/clc_001.jpg 'Entrance at the corner of Broad & Clark')
-<br><em>The main entrance to Christian Life Waverly at the corner of Broad St and Clark St.</em>
+<br><em>The main entrance to Christian Life Church Waverly at the corner of Broad St and Clark St.</em>
 
 <h2>What Must I Do to Be Saved?</h2>
 > ... Sirs, what must I do to be saved?
