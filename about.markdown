@@ -8,12 +8,16 @@ permalink: /about/
 
 Christian Life Church is an independent, conservative, evangelical church located at 207 Broad St in the Village of Waverly, New York. The main entrance is at the corner of Clark St and Broad St. We are in the old Capitol Theater. We share our building with [The Bridge of the Penn-York Valley Churches](https://www.thevalleybridge.com/){:target="_blank"}.
 
-*add details such as comments about music, length of service, Communion frequency, etc.*
+Our worship services start at 11:05 AM and last just under one hour. We sing both contemporary music and traditional hymns. We take Communion together on the first Sunday of each month. We meet for lunch and fellowship most months on the third Sunday of the month after the morning service. Doug Paul, our current Council Chaiman, leads our services. 
 
 <h2 id="leadership">Leadership</h2>
 
-*information to be added: list Council members?*
-*information to be added: bio?*
+We govern ourselves as a congregational church. Our members annually elect representatives to our Prayer Council. We hold multiple congregational business meetings each year. The current membership of our Council is as follows:
+* Stacy Garrity
+* Ron Hunsinger
+* Doug Paul (Council Chairman)
+* Kim Paul (Secretary and Treasurer)
+* Maria Richman
 
 <h2 id="contact">Contact Us</h2>
 

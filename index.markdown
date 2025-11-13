@@ -8,7 +8,8 @@ November 16: "The Father Brought Us Forth" (James 1:16-18)
 
 **Sunday Worship: 11 am**
 
-Fellowship Meal: November 16 after 11 am service
+Fellowship Meal: November 16 after service<br>
+Fellowship Meal & Business Meeting: December 21
 
 {%- if site.address -%}
   <br><br>{{ site.address | escape }}<br><br>

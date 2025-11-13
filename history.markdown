@@ -11,7 +11,7 @@ The Christian Life Church is located at 207 Broad Street in Waverly, NY. The bui
 ![corner of Broad & Clark]( {{ site.baseurl }}assets/Capitol_Theatre.jpg 'Capitol Theatre')
 <br><em>Undated photograph of the old Waverly, NY Capitol Theatre.</em>
 
-![corner of Broad & Clark]( {{ site.baseurl }}assets/Christian_Life_Waverly.jpg 'Christian Life Waverly')
+![corner of Broad & Clark]( {{ site.baseurl }}assets/Christian_Life_Waverly.jpg 'Christian Life Church')
 <br><em>Recent photograph of the Christian Life Church, Waverly, NY.</em>
 
 The theater was sold by Comerford’s successors to the Capital Assembly of God church, an independent church, in 1972. For some time, the church worshiped in the main theater area using the stage for the pulpit; however, reportedly, heating the space was challenging and at some point in time, the congregation moved their worship services to the large room in the storefront, “The Little Chapel.”  This room reportedly housed a pharmacy originally. Early on, there was also a school at the church. In 1999, the church changed its name to Christian Life Church.
@@ -22,4 +22,4 @@ In July 2021, the church began allowing The Bridge of the Penn-York Valley Churc
 
 The current congregation is small, but faithful. The church remains independent. Sunday services are held each week at 11 a.m. Doug Paul currently preaches God’s Word weekly.
 
-*Christian Life Church Waverly would like to expand on this historical record. Please send any insights you might have about the history of the building and/or the congregation to <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>.*
+*Christian Life Church would like to expand on this historical record. Please send any insights you might have about the history of the building and/or the congregation to <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>.*
