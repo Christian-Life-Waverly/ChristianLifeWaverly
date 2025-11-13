@@ -6,7 +6,7 @@ permalink: /about/
 
 <h2 id="intro">Introduction</h2>
 
-Christian Life Church Waverly is an independent, conservative, evangelical church located at 207 Broad St in the Village of Waverly, New York. The main entrance is at the corner of Clark St and Broad St. We are in the old Capitol Theater. We share our building with [The Bridge of the Penn-York Valley Churches](https://www.thevalleybridge.com/){:target="_blank"}.
+Christian Life Church is an independent, conservative, evangelical church located at 207 Broad St in the Village of Waverly, New York. The main entrance is at the corner of Clark St and Broad St. We are in the old Capitol Theater. We share our building with [The Bridge of the Penn-York Valley Churches](https://www.thevalleybridge.com/){:target="_blank"}.
 
 *add details such as comments about music, length of service, Communion frequency, etc.*
 

@@ -15,7 +15,7 @@ Fellowship Meal: November 16 after 11 am service
 {%- endif -%}
 
 ![corner of Broad & Clark]( {{ site.baseurl }}assets/clc_001.jpg 'Entrance at the corner of Broad & Clark')
-<br><em>The main entrance to Christian Life Church Waverly at the corner of Broad St and Clark St.</em>
+<br><em>The main entrance to the Christian Life Church at the corner of Broad St and Clark St. in Waverly, NY.</em>
 
 <h2>What Must I Do to Be Saved?</h2>
 > ... Sirs, what must I do to be saved?

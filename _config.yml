@@ -21,7 +21,7 @@
 show_excerpts: true
 excerpt_separator: <!-- more -->
 
-title: CLC Waverly
+title: Christian Life Church
 email: christianlifewaverly@gmail.com
 address: 207 Broad St, Waverly, NY 14892
 phone: 607-565-9777
@@ -29,8 +29,7 @@ service: "Sunday Worship: 11 am"
 donation: "https://paypal.me/ChristianLifeChurch?locale.x=en_US"
 contact_us: "/about/#contact"
 description: >- # this means to ignore newlines until "baseurl:"
-  We are an independent, conservative, evangelical church located on Broad St in the Village
-  of Waverly, New York.
+  We are an independent, conservative, evangelical church located on Broad St in Waverly, New York.
 baseurl: "/ChristianLifeWaverly/"
 url: "https://clcwny.pages.dev"
 x_username: CLCWaverly
