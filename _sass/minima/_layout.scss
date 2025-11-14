@@ -32,6 +32,15 @@
     top: 10px;
 }
 
+/* .site-title::after {
+    font-size: 0.4em;
+    content: "207 Broad St Waverly NY";
+    color: #666;
+    display: block;
+    position: sticky;
+    height: 0.4em;
+} */
+
 .site-nav {
     float: right;
     line-height: $base-line-height * $base-font-size * 2.25;
