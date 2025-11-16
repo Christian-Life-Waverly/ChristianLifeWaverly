@@ -4,15 +4,14 @@ layout: home
 **<span style="font-size:1.6em">Current Series: James</span>**\\
 *<span style="font-size:1.3em">"Let steadfastness have its full effect."</span>*
 
-November 16: "The Father Brought Us Forth" (James 1:16-18)
+November 23: "Be Quick to Hear" (James 1:19-21)
 
 **Sunday Worship: 11 am**
 
-Fellowship Meal: Nov 16 after service<br>
 Fellowship Meal & Business Meeting: Dec 21
 
 {%- if site.address -%}
-  <br><br>{{ site.address | escape }}<br><br>
+  <br><br><a href="https://www.google.com/maps/search/?api=1&query={{ site.address }}" target="_blank"><button>{{ site.address }}</button></a><br><br>
 {%- endif -%}
 
 ![corner of Broad & Clark]( {{ site.baseurl }}assets/clc_001.jpg 'Entrance at the corner of Broad & Clark')
