@@ -4,11 +4,16 @@ layout: page
 permalink: /the-gospel/
 ---
 
-**The Gospel**
+<h2>The Gospel</h2>
 
-1 Corinthians 15:1-8 (KJV)
->1 Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; 2 By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain. 3 For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; 4 And that he was buried, and that he rose again the third day according to the scriptures: 5 And that he was seen of Cephas, then of the twelve: 6 After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep. 7 After that, he was seen of James; then of all the apostles. 8 And last of all he was seen of me also, as of one born out of due time.
+<h3>Paul's Summary of the Gospel</h3>
 
-**Saving Faith**
+>“<sup>1</sup>Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, <sup>2</sup>and by which you are being saved, if you hold fast to the word I preached to you— unless you believed in vain. 
+>
+><sup>3</sup>For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, <sup>4</sup>that he was buried, that he was raised on the third day in accordance with the Scriptures, <sup>5</sup>and that he appeared to Cephas, then to the twelve. <sup>6</sup>Then he appeared to more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep. <sup>7</sup>Then he appeared to James, then to all the apostles. <sup>8</sup>Last of all, as to one untimely born, he appeared also to me.” 
 
-**The Law/Gospel Distinction**
+1 Corinthians 15:1-8, {%- include esv-cr-link.html -%}
+
+<h2>Saving Faith</h2>
+
+<h2>The Law/Gospel Distinction</h2>
