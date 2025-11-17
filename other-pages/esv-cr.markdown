@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /esv-cr.html/
+permalink: /other-pages/esv-cr.html/
 ---
 
 <h1>English Standard Bible Copyright Notice</h1>

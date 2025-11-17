@@ -42,7 +42,7 @@ Here are various ways to contact us.<br><br>
 
 <form action="https://api.staticforms.dev/submit" method="POST">
     <input type="hidden" name="apiKey" value="sf_6f312597h23h24ld4jd14dc8" />
-    <input type="hidden" name="redirectTo" value="https://clcwaverly.org/thank-you.html/" />
+    <input type="hidden" name="redirectTo" value="https://clcwaverly.org/other-pages/thank-you.html/" />
     <label for="name">Name</label><br>
     <input name="Name" id="name" type="text" /><br><br>
     <label for="email">Email Address (required)</label><br>
