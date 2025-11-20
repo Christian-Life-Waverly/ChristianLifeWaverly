@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 
-James 1:12-15 helps us to distinguish trials, temptations, and sins. But we also need to keep in mind that some temptations are also sins. We want to **remain steadfast under trial**. By the grace of God we can, if we are born again, work toward that goal. Today's sermon audio can be found on Castbox at ["Steadfast under Trial", James 1:12-15][sermon]{:target="_blank"}.
+James 1:12-15 helps us to distinguish trials, temptations, and sins. But we also need to keep in mind that some temptations are also sins. We want to **remain steadfast under trial**. By the grace of God we can, if we are born again, work toward that goal. Today's sermon audio can be found on Castbox at [139 "Steadfast under Trial", James 1:12-15][sermon]{:target="_blank"}.
 <!-- more -->
 
 Introduction: The Law/Gospel Distinction\\

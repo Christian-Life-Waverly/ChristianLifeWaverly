@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 
-In our sermon today from James 1:9-11 we considered how wealth or the lack of wealth can shift our perspective from God's point of view to the world's point of view. We want all of our "boasting" to be God-centered boasting. We want none of our boasting to be self-centered bragging. Today's sermon audio can be found on Castbox at ["For the Sun Rises", James 1:9-11][sermon]{:target="_blank"}.
+In our sermon today from James 1:9-11 we considered how wealth or the lack of wealth can shift our perspective from God's point of view to the world's point of view. We want all of our "boasting" to be God-centered boasting. We want none of our boasting to be self-centered bragging. Today's sermon audio can be found on Castbox at [138 "For the Sun Rises", James 1:9-11][sermon]{:target="_blank"}.
 <!-- more -->
 
 Introduction: Boasting\\

@@ -10,7 +10,7 @@ published: true
 
 Our text for November 16 is James 1:16-18. We should take James seriously when he says "Do not be deceived" (v16). This command is not just a rhetorical flourish. James is giving us an important admonition to help us "let steadfastness have its full effect" (v4). Then in v17 James gives us a specific area of doctrine where believers can be deceived. Everything God does is good; every good gift comes from Him; God never changes so we do not need to be concerned about Him giving us bad gifts. Then in v18 James tells us about being born again. We conclude by looking at how we are born again: by the Word of Truth. 
 
-Today's sermon audio can be found on Castbox at ["The Father Brought Us Forth", James 1:16-18][sermon]{:target="_blank"}.
+Today's sermon audio can be found on Castbox at [140 "The Father Brought Us Forth", James 1:16-18][sermon]{:target="_blank"}.
 <!-- more -->
 
 Introduction: Context\\
