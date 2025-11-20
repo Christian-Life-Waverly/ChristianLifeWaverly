@@ -4,7 +4,8 @@ layout: home
 **<span style="font-size:1.6em">Current Series: James</span>**\\
 *<span style="font-size:1.3em">"Let steadfastness have its full effect."</span>*
 
-November 23: "Be Quick to Hear" (James 1:19-21)
+Nov 23: "Be Quick to Hear" (James 1:19-21)\\
+Nov 30-Dec 21: The Birth of Christ in Luke
 
 **Sunday Worship: 11 am**
 
