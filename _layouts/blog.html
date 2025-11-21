@@ -30,6 +30,11 @@ layout: default
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
+          {% assign excerpt_length = post.excerpt | strip_html | size %}
+          {% assign content_length = post.content | strip_html | size %}
+          {% if content_length != excerpt_length %}
+          <a href="{{ post.url | relative_url }}">Read more</a>
+            {% endif %}
         {%- endif -%}
       </li>
       {%- endfor -%}

@@ -8,9 +8,7 @@ tags:
 published: true
 ---
 
-God willing, we will begin a four sermon series on the birth of Christ in Luke Sunday November 30, 2025. Then On December 30 we will 
-<!-- more -->
-resume the series in James (Let Steadfastness Have Its Full Effect).
+God willing, we will begin a four sermon series on *The Birth of Christ in Luke* on Sunday November 30, 2025. Then On December 30 we will resume the series in James *(Let Steadfastness Have Its Full Effect)*.
 
 Tentatively, we will consider:
 * Nov 30 Luke 1:26-38 The Annunciation
